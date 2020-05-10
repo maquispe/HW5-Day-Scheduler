@@ -1,0 +1,11 @@
+.dot{
+    border-top:  1px solid;
+}
+.save-btn{
+    background-color:lightskyblue;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px ;
+}
+.bg{
+    background-color: burlywood;
+}
