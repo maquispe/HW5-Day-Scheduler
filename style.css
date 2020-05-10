@@ -1,4 +1,7 @@
-.dot{
+.body{
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png');
+}
+.bar{
     border-top:  1px solid;
 }
 .save-btn{
@@ -6,6 +9,15 @@
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px ;
 }
-.bg{
-    background-color: burlywood;
+.save-btn:hover{
+    background-color: powderblue;
+    transition: background-color .5s;
 }
+.time-block{
+    background-image: linear-gradient(to left, white, lightgrey);
+}
+.bg{
+    background-color: rgb(229, 231, 233);
+}
+
+
